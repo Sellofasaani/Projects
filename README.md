@@ -1,1 +1,1 @@
-Projects from C# to further advance my learning.
+Projects from C# Academy to further advance my learning.
