@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Habit Tracker": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\erone\\source\\repos\\Sellofasaani\\C# Academy\\Habit Tracker\\Habit Tracker"
+    }
+  }
+}
